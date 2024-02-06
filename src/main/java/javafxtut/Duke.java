@@ -31,7 +31,7 @@ public class Duke extends Application {
     @FXML
     private Image duke = new Image(this.getClass().getResourceAsStream("/images/DaDuke.png"));
     public Duke() {
-        //..
+        //..test
     }
     /**
      * Iteration 2:
